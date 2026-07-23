@@ -143,3 +143,6 @@ void gradeCalculator() {
 
   print("Valid quiz entries: $validQuiz");
 }
+
+
+// ang hirapppp sir, nag pa guide ako kaunti sa ai, but hindi mismong sagit ng ai to sir
